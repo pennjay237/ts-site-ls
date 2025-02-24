@@ -1,5 +1,4 @@
-import styles from './attachement.module.css'
-
+import styles from './attachment.module.css';
 export default function Attachement() {
   return (
           <div className={styles.bannerAttach}>

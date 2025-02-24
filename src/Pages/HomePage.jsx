@@ -1,11 +1,11 @@
 import AboutCart from "../components/aboutCart/AboutCart";
 import { aboutHome, homeCart } from "../components/constant";
-import { popularHome } from "../components/constants";
-import HomeBanner from "../components/hommeBannner/HomeBanner";
-import PackageCart from "../components/pakageCart/PackageCart";
+import { popularHome } from "../components/constant";
+import HomeBanner from "../components/hommeBanner/HomeBanner";
+import PackageCart from "../components/packageCart/packageCart";
 import PopularCart from "../components/popularCart/PopularCart";
-import TextComponents from "../components/textComponents/TextComponents";
-import WhyCart from "../components/whyCart/WhyCart";
+import TextComponents from "../components/textComponents/TextComponent";
+import WhyCart from "../components/whyCart/WhyCart"
 
 export default function HomePage() {
   return (
