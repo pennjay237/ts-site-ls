@@ -1,7 +1,7 @@
 import AboutCart from "../components/aboutCart/AboutCart";
 import { aboutHome, homeCart } from "../components/constant";
 import { popularHome } from "../components/constant";
-import HomeBanner from "../components/hommeBanner/HomeBanner";
+import HomeBanner from "../components/homeBanner/HomeBanner";
 import PackageCart from "../components/packageCart/packageCart";
 import PopularCart from "../components/popularCart/PopularCart";
 import TextComponents from "../components/textComponents/TextComponent";

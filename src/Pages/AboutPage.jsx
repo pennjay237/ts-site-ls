@@ -1,5 +1,5 @@
 import AboutCartComponent from "../components/about/aboutCartComponent";
-import AboutBanner from "../components/aboutBanner/AboutBanner";
+import AboutBanner from "../components/Banner/AboutBanner";
 import { aboutData } from "../components/constant";
 
 export default function AboutPage() {
